@@ -8,7 +8,7 @@ Verifiquen que git está instalado
 
 git version, si no está instalar.
 
-Pueden clonar el repositorio localmente con git clone https://github.com/labfran/demotesting.git
+Pueden clonar el repositorio localmente con git clone https://github.com/flarrea/demonunit.git
 
 o pueden descargarlo directamente.
 
