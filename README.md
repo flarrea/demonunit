@@ -45,9 +45,9 @@ Cada Método tiene tres partes (Convención triple A)
 *Se verifica que el resultado es correcto
 
 Instalar paquetes de NUnit, desde Package Manager Console
-PM> install-package NUnit -Version 3.8.1
+PM> install-package NUnit -Version 3.11.0
 
-PM> install-package NUnit3TestAdapter -Version 3.8.0
+PM> install-package NUnit3TestAdapter -Version 3.11.0
 
 Así en ves de [TestClass] usamos [TestFixture] debemos agregar using NUnit.Framework;
 Y en ves de [TestMethod] usamos [Test]
